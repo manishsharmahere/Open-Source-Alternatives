@@ -206,6 +206,7 @@ A curated list of open-source alternatives to popular software and services. Eac
 *   [Bookshelf](https://www.bookshelf.diy/): A self-hosted, open-source application for tracking and managing your personal library, reading habits, and book notes.
 *   [Brave](https://brave.com/): A fast, private, and secure web browser with built-in ad blocker, VPN, and AI assistant, prioritizing user privacy and performance.
 *   [Docmost](https://docmost.com/): It helps you collect, organize, and share documents in one simple place.
+*   [Glim](https://github.com/NeoPanic/Glim): An MIT-licensed macOS file viewer for Markdown, source code, PDF/Office previews and data files, with basic UTF-8 text editing.
 *   [Joplin](https://joplinapp.org/): An open-source note-taking application that allows you to capture your thoughts and securely access them from any device.
 *   [Ladybird](https://ladybird.org/): An independent, open-source browser built from scratch with a focus on privacy, performance, and user control.
 *   [LibreOffice](https://www.libreoffice.org/): A free and open-source office suite compatible with Microsoft Office formats, offering a range of applications for various productivity tasks.
